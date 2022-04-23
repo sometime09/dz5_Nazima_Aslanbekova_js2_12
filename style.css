@@ -1,0 +1,44 @@
+.info {
+    list-style: none;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 19px;
+    color: #5c5a5a;
+    mix-blend-mode: normal;
+    opacity: 0.8;
+}
+
+.text {
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 19px;
+    color: #201f1f;
+    mix-blend-mode: normal;
+    opacity: 0.8;
+}
+
+#getInfo,
+#post_btn {
+    background: transparent;
+    outline: none;
+    border: 1px solid #5c5a5a;
+    border-radius: 5px;
+    width: 100px;
+    height: 30px;
+
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 19px;
+    color: #2c2828;
+    mix-blend-mode: normal;
+    opacity: 0.8;
+}
+#post_btn {
+    margin-top: 10px;
+}
